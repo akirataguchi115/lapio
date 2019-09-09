@@ -1,2 +1,3 @@
 Jokin pitkä pätkä tekstiä
 Toivottavasti tämä on tarpeeksi pitkä pätkä tekstiä
+Nyt testissä datan fetchaaminen Githubista
