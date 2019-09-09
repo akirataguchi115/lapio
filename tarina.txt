@@ -2,8 +2,5 @@ Stashin testaamista
 Jokin pitkä pätkä tekstiä
 Toivottavasti tämä on tarpeeksi pitkä pätkä tekstiä
 Nyt testissä datan fetchaaminen Githubista
-<<<<<<< Updated upstream
-Ohhh shiiit here we go again
-=======
-
 Toivottavasti stashaaminen onnistuu
+Terveiset fuksiläppäriltä
