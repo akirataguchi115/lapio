@@ -3,4 +3,4 @@ Jokin pitkä pätkä tekstiä
 Toivottavasti tämä on tarpeeksi pitkä pätkä tekstiä
 Nyt testissä datan fetchaaminen Githubista
 Toivottavasti stashaaminen onnistuu
-Terveiset fuksiläppäriltä
+Terveiset fuksiläppäriltä githubia käyttäen
